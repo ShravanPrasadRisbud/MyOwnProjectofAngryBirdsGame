@@ -1,2 +1,2 @@
-# MyOwnProjectofAngryBirdsGame
-Yashaswini mam look at the baseclasspractice.js.....and get surprised! (please read the comments at the start(please))
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
